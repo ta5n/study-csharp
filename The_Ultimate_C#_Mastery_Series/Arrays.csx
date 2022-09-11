@@ -1,4 +1,4 @@
-#!/usr/bin/env dotnet-script
+#!dotnet-script
 
 Console.WriteLine("Array methods");
 var numbers = new[] { 3, 7, 9, 2, 14, 6 };
