@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "01_Csharp_Basics"
+		},
+		{
+			"path": "02_Cs_Intermediate"
+		},
+		{
+			"path": "03_Csharp_Advanced"
+		},
+		{
+			"path": "04_Csharp_Coding_Speed"
+		}
+	]
+}
